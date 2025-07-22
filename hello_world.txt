@@ -1,2 +1,8 @@
 "yo wassup nigga im tired as fuck but im still goign strong bruh"
 why does it take so long to upload?
+save 
+git add .
+git commit -m " bulshit here"
+close editor 
+git status 
+git push 
